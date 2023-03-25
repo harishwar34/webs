@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+</body>
 <div>
     <h1 id="PHS WebDev">PHS WebDev<sub><em>Harishwar</em></sub></h1>
 <p><h2>About this company's:</h2></p>  
